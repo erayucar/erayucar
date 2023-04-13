@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erayucar
 - 👀 I’m interested in Android and IoT
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me ucarreray@gmail.com
 
 <!---
