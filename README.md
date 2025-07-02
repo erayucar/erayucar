@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erayucar
-- 👀 I’m interested in Android and IoT
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me ucarreray@gmail.com
+- 👀 I’m interested in NLP,Ai Engines ,LLM's ,Blockchain ,MERN
+- 📫 How to reach me mail@erayucar.com
 
 <!---
 erayucar/erayucar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
